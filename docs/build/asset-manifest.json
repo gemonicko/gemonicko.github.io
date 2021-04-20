@@ -31,7 +31,6 @@
   "icons/favicon-16x16.png": "/icons/favicon-16x16.png",
   "icons/favicon-32x32.png": "/icons/favicon-32x32.png",
   "icons/favicon-96x96.png": "/icons/favicon-96x96.png",
-  "icons/favicon.ico": "/icons/favicon.ico",
   "icons/manifest.json": "/icons/manifest.json",
   "icons/ms-icon-144x144.png": "/icons/ms-icon-144x144.png",
   "icons/ms-icon-150x150.png": "/icons/ms-icon-150x150.png",
@@ -41,6 +40,6 @@
   "logo.svg": "/logo.svg",
   "manifest.json": "/manifest.json",
   "path2357.png": "/path2357.png",
-  "precache-manifest.2b49d9bf24358e5b7b59ad9a1a77d695.js": "/precache-manifest.2b49d9bf24358e5b7b59ad9a1a77d695.js",
+  "precache-manifest.da38c7f7b4cf2a746323c06143418e98.js": "/precache-manifest.da38c7f7b4cf2a746323c06143418e98.js",
   "tShirtPtichka.svg": "/tShirtPtichka.svg"
 }
