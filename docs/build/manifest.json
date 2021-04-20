@@ -3,7 +3,7 @@
   "name": "Gemonicko Art",
   "icons": [
     {
-      "src": "./icons/android-icon-96x96.png",
+      "src": "/logo.svg",
       "sizes": "96x96",
       "type": "image/png"
     }
