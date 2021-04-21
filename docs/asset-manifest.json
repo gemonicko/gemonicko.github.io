@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.528b27e7.chunk.css",
-  "main.js": "/static/js/main.d2965218.chunk.js",
-  "main.js.map": "/static/js/main.d2965218.chunk.js.map",
+  "main.js": "/static/js/main.572c29ea.chunk.js",
+  "main.js.map": "/static/js/main.572c29ea.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.0b49ec49.chunk.js",
@@ -40,6 +40,6 @@
   "logo.svg": "/logo.svg",
   "manifest.json": "/manifest.json",
   "path2357.png": "/path2357.png",
-  "precache-manifest.c455b9de216c0407123bc9f796ee5c61.js": "/precache-manifest.c455b9de216c0407123bc9f796ee5c61.js",
+  "precache-manifest.54cb9549d96576e31e5cb8470f2df378.js": "/precache-manifest.54cb9549d96576e31e5cb8470f2df378.js",
   "tShirtPtichka.svg": "/tShirtPtichka.svg"
 }
